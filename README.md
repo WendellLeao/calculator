@@ -1,3 +1,3 @@
 # calculator
 
-College exercise.
+A college exercise.
